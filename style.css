@@ -25,3 +25,7 @@ header, #featured-property {
   margin: auto;
   text-align: center;
 }
+
+div {
+  float: left;
+}
