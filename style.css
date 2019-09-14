@@ -23,3 +23,7 @@ header, #featured-property {
   background: red;
   display: block;
 }
+
+#details div {
+  float: left;
+}
