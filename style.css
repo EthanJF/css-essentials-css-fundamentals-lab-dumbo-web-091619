@@ -16,5 +16,5 @@ header, #featured-property {
 
 #details {
   background: red;
-  display: block;
+  display: inline-blockblock;
 }
