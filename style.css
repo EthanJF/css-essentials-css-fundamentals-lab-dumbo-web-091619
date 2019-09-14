@@ -21,11 +21,12 @@ header, #featured-property {
 
 
 #details div {
-    background: red;
+  background: red;
   display: block;
   margin: auto;
   text-align: center;
   padding: 5px;
   float: left;
+  width: 100%;
 }
 
