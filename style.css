@@ -26,3 +26,7 @@ header, #featured-property {
   text-align: center;
 }
 
+#details div {
+  padding: 5px;
+}
+
