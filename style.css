@@ -19,13 +19,17 @@ header, #featured-property {
   margin: auto;
 }
 
+#details {
+    margin: 0;
+  width: 100%;
+}
+
 #details div {
   background: red;
   display: block;
   text-align: center;
   padding: 10px;
   float: left;
-  margin: 0;
-  width: 100%;
+
 }
 
