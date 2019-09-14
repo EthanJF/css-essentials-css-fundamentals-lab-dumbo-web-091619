@@ -6,6 +6,7 @@ body {
 
 header a {
   background: gray;
+  padding: 5px;
 }
 
 header, #featured-property {
