@@ -28,5 +28,6 @@ header, #featured-property {
 
 #details div {
   padding: 5px;
+  float: left;
 }
 
