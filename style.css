@@ -23,4 +23,5 @@ header, #featured-property {
   background: red;
   display: block;
   margin: auto;
+  text-align: center;
 }
