@@ -19,7 +19,9 @@ header, #featured-property {
   margin: auto;
 }
 
-
+#details {
+  width: 100%;
+}
 #details div {
   background: red;
   display: block;
