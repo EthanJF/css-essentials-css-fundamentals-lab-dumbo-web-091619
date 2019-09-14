@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+a {
+  background: gray;
+}
+
 header, #featured-property {
   margin: auto;
   text-align: center;
