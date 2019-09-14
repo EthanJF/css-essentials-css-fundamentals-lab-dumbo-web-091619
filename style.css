@@ -28,8 +28,8 @@ header, #featured-property {
   background: red;
   display: block;
   text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
   float: left;
 
 }
