@@ -23,7 +23,6 @@ header, #featured-property {
 #details div {
   background: red;
   display: block;
-  margin: auto;
   text-align: center;
   padding: 10px;
   float: left;
