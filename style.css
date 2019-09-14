@@ -6,7 +6,7 @@ body {
 
 header a {
   background: gray;
-  opacity: 50%;
+  opacity: .5;
 }
 
 header, #featured-property {
